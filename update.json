@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "name": "Super Mouse App",
+      "platform": "android",
+      "version": "1.0.0",
+      "whatsNew": [
+        "Bugs are fixed",
+        "New features are added"
+      ],
+      "lastModified": "14/04/26",
+      "downloadUrl": "https://yourserver.com/windows/latest.exe",
+      "imageUrl": "https://yourserver.com/images/windows.png"
+    },
+    {
+      "name": "Super Mouse Flow Point App",
+      "platform": "windows",
+      "version": "1.0.0",
+      "whatsNew": [
+        "Improved connectivity",
+        "UI enhancements"
+      ],
+      "lastModified": "14/04/26",
+      "downloadUrl": "https://yourserver.com/android/app.apk",
+      "imageUrl": "https://yourserver.com/images/android.png"
+    },
+    {
+      "name": "Super Mouse Flow Point App",
+      "platform": "mac",
+      "version": "1.0.0",
+      "whatsNew": [
+        "Improved connectivity",
+        "UI enhancements"
+      ],
+      "lastModified": "14/04/26",
+      "downloadUrl": "https://yourserver.com/android/app.apk",
+      "imageUrl": "https://yourserver.com/images/android.png"
+    },
+    {
+      "name": "Super Mouse Android Firmware",
+      "platform": "soc",
+      "version": "1.0.0",
+      "whatsNew": [
+        "Performance improvements",
+        "Battery optimization"
+      ],
+      "lastModified": "14/04/26",
+      "downloadUrl": "https://yourserver.com/firmware/android.bin",
+      "imageUrl": "https://yourserver.com/images/firmware1.png"
+    },
+    {
+      "name": "Super Mouse Mouse Firmware",
+      "platform": "mouse",
+      "version": "1.0.0",
+      "whatsNew": [
+        "Sensor accuracy improved",
+        "Latency reduced"
+      ],
+      "lastModified": "14/04/26",
+      "downloadUrl": "https://yourserver.com/firmware/mouse.bin",
+      "imageUrl": "https://yourserver.com/images/firmware2.png"
+    }
+  ]
+}

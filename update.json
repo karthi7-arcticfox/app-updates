@@ -3,13 +3,13 @@
     {
       "name": "Super Mouse App",
       "platform": "android",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "whatsNew": [
         "Bugs are fixed",
         "New features are added"
       ],
       "lastModified": "14/04/26",
-      "downloadUrl": "https://yourserver.com/windows/latest.exe",
+      "downloadUrl": "https://github.com/karthi7-arcticfox/app-updates/releases/download/untagged-d60f128457a95954b7f2/app-debug.apk",
       "imageUrl": "https://yourserver.com/images/windows.png"
     },
     {

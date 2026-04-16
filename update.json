@@ -9,7 +9,7 @@
         "New features are added"
       ],
       "lastModified": "14/04/26",
-      "downloadUrl": "https://dash.cloudflare.com/c1b36492e293420a8e31b21e946beaa1/r2/default/buckets/software/objects/app-debug.apk/details",
+      "downloadUrl": "https://pub-62e4d52ff021424abb863fdf3e0f3e94.r2.dev/app-debug.apk",
       "imageUrl": "https://yourserver.com/images/windows.png"
     },
     {
@@ -57,7 +57,7 @@
         "Latency reduced"
       ],
       "lastModified": "14/04/26",
-      "downloadUrl": "https://pub-62e4d52ff021424abb863fdf3e0f3e94.r2.dev/BK3635_00A_V50_BUCK_CAP46-APP.bin",
+      "downloadUrl": "https://pub-62e4d52ff021424abb863fdf3e0f3e94.r2.dev/MA6E25_00A_20260213_1.00-0041_BUCK_Cap46.bin",
       "imageUrl": "https://yourserver.com/images/firmware2.png"
     }
   ]

@@ -51,13 +51,13 @@
     {
       "name": "Super Mouse Mouse Firmware",
       "platform": "mouse",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "whatsNew": [
         "Sensor accuracy improved",
         "Latency reduced"
       ],
       "lastModified": "14/04/26",
-      "downloadUrl": "https://yourserver.com/firmware/mouse.bin",
+      "downloadUrl": "https://github.com/karthi7-arcticfox/app-updates/releases/download/v3.0.0/BK3635_00A_V50_BUCK_CAP46-APP.bin",
       "imageUrl": "https://yourserver.com/images/firmware2.png"
     }
   ]

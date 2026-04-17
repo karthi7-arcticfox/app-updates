@@ -39,19 +39,19 @@
     {
       "name": "Super Mouse Android Firmware",
       "platform": "soc",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "whatsNew": [
         "Performance improvements",
         "Battery optimization"
       ],
-      "lastModified": "14/04/26",
-      "downloadUrl": "https://yourserver.com/firmware/android.bin",
+      "lastModified": "17/04/26",
+      "downloadUrl": "https://pub-62e4d52ff021424abb863fdf3e0f3e94.r2.dev/update.img",
       "imageUrl": "https://yourserver.com/images/firmware1.png"
     },
     {
       "name": "Super Mouse Mouse Firmware",
       "platform": "mouse",
-      "version": "2.0.0",
+      "version": "1.0.0",
       "whatsNew": [
         "Sensor accuracy improved",
         "Latency reduced"

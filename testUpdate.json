@@ -3,7 +3,7 @@
     {
       "name": "Super Mouse App",
       "platform": "android",
-      "version": "2.0.0",
+      "version": "1.0.0",
       "whatsNew": [
         "Bugs are fixed",
         "New features are added"
@@ -15,7 +15,7 @@
     {
       "name": "Super Mouse Flow Point App",
       "platform": "windows",
-      "version": "2.0.0",
+      "version": "1.0.0",
       "whatsNew": [
         "Improved connectivity",
         "UI enhancements"
@@ -39,7 +39,7 @@
     {
       "name": "Super Mouse Android Firmware",
       "platform": "soc",
-      "version": "2.0.0",
+      "version": "1.0.0",
       "whatsNew": [
         "Performance improvements",
         "Battery optimization"
@@ -51,7 +51,7 @@
     {
       "name": "Super Mouse Mouse Firmware",
       "platform": "mouse",
-      "version": "2.0.0",
+      "version": "1.0.0",
       "whatsNew": [
         "Sensor accuracy improved",
         "Latency reduced"

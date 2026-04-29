@@ -51,7 +51,7 @@
     {
       "name": "Super Mouse Mouse Firmware",
       "platform": "mouse",
-      "version": "61.00",
+      "version": "61",
       "whatsNew": [
         "Sensor accuracy improved",
         "Latency reduced"

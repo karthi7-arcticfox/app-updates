@@ -21,7 +21,7 @@
         "UI enhancements"
       ],
       "lastModified": "13/05/26",
-      "downloadUrl": "https://pub-62e4d52ff021424abb863fdf3e0f3e94.r2.dev/supermousesetuptest.exe",
+      "downloadUrl": "https://pub-62e4d52ff021424abb863fdf3e0f3e94.r2.dev/supermousesetup.exe",
       "imageUrl": "https://yourserver.com/images/android.png"
     },
     {
@@ -39,7 +39,7 @@
     {
       "name": "Super Mouse Android Firmware",
       "platform": "soc",
-      "version": "2.0.1",
+      "version": "2.0.0",
       "whatsNew": [
         "Performance improvements",
         "Battery optimization"

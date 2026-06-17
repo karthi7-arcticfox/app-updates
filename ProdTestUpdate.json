@@ -3,24 +3,24 @@
     {
       "name": "Super Mouse App",
       "platform": "android",
-      "version": "1.0.3",
+      "version": "4.1.3",
       "whatsNew": [
         "Bugs are fixed",
         "New features are added"
       ],
-      "lastModified": "24/05/26",
+      "lastModified": "17/06/26",
       "downloadUrl": "https://pub-62e4d52ff021424abb863fdf3e0f3e94.r2.dev/app-release.apk",
       "imageUrl": "https://yourserver.com/images/windows.png"
     },
     {
       "name": "Super Mouse Flow Point App",
       "platform": "windows",
-      "version": "3.0.0.4",
+      "version": "3.0.0.5",
       "whatsNew": [
         "Improved connectivity",
         "UI enhancements"
       ],
-      "lastModified": "28/05/26",
+      "lastModified": "17/06/26",
       "downloadUrl": "https://pub-62e4d52ff021424abb863fdf3e0f3e94.r2.dev/supermousesetup.exe",
       "imageUrl": "https://yourserver.com/images/android.png"
     },

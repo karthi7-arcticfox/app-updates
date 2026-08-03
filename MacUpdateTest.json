@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "name": "Super Mouse App",
+      "platform": "android",
+      "version": "4.1.8",
+      "whatsNew": [
+        "Bugs are fixed",
+        "New features are added"
+      ],
+      "lastModified": "19/06/26",
+      "downloadUrl": "https://pub-62e4d52ff021424abb863fdf3e0f3e94.r2.dev/app-release.apk",
+      "imageUrl": "https://yourserver.com/images/windows.png"
+    },
+    {
+      "name": "Super Mouse Flow Point App",
+      "platform": "windows",
+      "version": "3.0.0.6",
+      "whatsNew": [
+        "Improved connectivity",
+        "UI enhancements"
+      ],
+      "lastModified": "17/06/26",
+      "downloadUrl": "https://pub-62e4d52ff021424abb863fdf3e0f3e94.r2.dev/supermousesetup.exe",
+      "imageUrl": "https://yourserver.com/images/android.png"
+    },
+    {
+      "name": "Super Mouse Flow Point App",
+      "platform": "mac",
+      "version": "1.0.0",
+      "whatsNew": [
+        "Improved connectivity",
+        "UI enhancements"
+      ],
+      "lastModified": "14/04/26",
+      "downloadUrl": "https://pub-62e4d52ff021424abb863fdf3e0f3e94.r2.dev/Super%20Mouse%20Flow%20App.exe",
+      "imageUrl": "https://yourserver.com/images/android.png"
+    },
+    {
+      "name": "Super Mouse Android Firmware",
+      "platform": "soc",
+      "version": "2.0.1",
+      "whatsNew": [
+        "Performance improvements",
+        "Battery optimization"
+      ],
+      "lastModified": "17/04/26",
+      "downloadUrl": "https://pub-62e4d52ff021424abb863fdf3e0f3e94.r2.dev/updateTest.img",
+      "imageUrl": "https://yourserver.com/images/firmware1.png"
+    },
+    {
+      "name": "Super Mouse Mouse Firmware",
+      "platform": "mouse",
+      "version": "00",
+      "whatsNew": [
+        "Sensor accuracy improved",
+        "Latency reduced"
+      ],
+      "lastModified": "19/05/26",
+      "downloadUrl": "https://pub-62e4d52ff021424abb863fdf3e0f3e94.r2.dev/BK3635_APP.bin",
+      "imageUrl": "https://yourserver.com/images/firmware2.png"
+    }
+  ]
+}

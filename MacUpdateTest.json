@@ -27,7 +27,7 @@
     {
       "name": "Super Mouse Flow Point App",
       "platform": "mac",
-      "version": "0",
+      "version": "1.0.2",
       "whatsNew": [
         "Improved connectivity",
         "UI enhancements"
@@ -39,7 +39,7 @@
     {
       "name": "Super Mouse Android Firmware",
       "platform": "soc",
-      "version": "2.0.1",
+      "version": "1.0.0",
       "whatsNew": [
         "Performance improvements",
         "Battery optimization"

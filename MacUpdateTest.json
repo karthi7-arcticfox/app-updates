@@ -3,7 +3,7 @@
     {
       "name": "Super Mouse App",
       "platform": "android",
-      "version": "4.3.4",
+      "version": "4.3.3",
       "whatsNew": [
         "Bugs are fixed",
         "New features are added"
@@ -51,7 +51,7 @@
     {
       "name": "Super Mouse Mouse Firmware",
       "platform": "mouse",
-      "version": "1.0.0",
+      "version": "0.0.0",
       "whatsNew": [
         "Sensor accuracy improved",
         "Latency reduced"

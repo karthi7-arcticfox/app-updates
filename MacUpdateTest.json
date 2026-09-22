@@ -3,12 +3,12 @@
     {
       "name": "Super Mouse App",
       "platform": "android",
-      "version": "4.4.2",
+      "version": "4.4.8",
       "whatsNew": [
         "Bugs are fixed",
         "New features are added"
       ],
-      "lastModified": "21/09/26",
+      "lastModified": "22/09/26",
       "downloadUrl": "https://pub-62e4d52ff021424abb863fdf3e0f3e94.r2.dev/app-release12.apk",
       "imageUrl": "https://yourserver.com/images/windows.png"
     },

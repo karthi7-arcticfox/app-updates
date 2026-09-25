@@ -2,14 +2,26 @@
   "products": [
     {
       "name": "Super Mouse App",
-      "platform": "android",
+      "platform": "android_RK",
       "version": "4.4.3",
       "whatsNew": [
         "Bugs are fixed",
         "New features are added"
       ],
-      "lastModified": "24/09/26",
+      "lastModified": "25/09/26",
       "downloadUrl": "https://pub-62e4d52ff021424abb863fdf3e0f3e94.r2.dev/app-release_US.apk",
+      "imageUrl": "https://yourserver.com/images/windows.png"
+    },
+    {
+      "name": "Super Mouse App",
+      "platform": "android_MT",
+      "version": "4.4.3",
+      "whatsNew": [
+        "Bugs are fixed",
+        "New features are added"
+      ],
+      "lastModified": "25/09/26",
+      "downloadUrl": "https://pub-62e4d52ff021424abb863fdf3e0f3e94.r2.dev/app-release_MT.apk",
       "imageUrl": "https://yourserver.com/images/windows.png"
     },
     {

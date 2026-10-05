@@ -3,24 +3,24 @@
     {
       "name": "Super Mouse App",
       "platform": "android_RK",
-      "version": "4.4.5",
+      "version": "4.4.8",
       "whatsNew": [
         "Bugs are fixed",
         "New features are added"
       ],
-      "lastModified": "25/09/26",
+      "lastModified": "03/10/26",
       "downloadUrl": "https://pub-62e4d52ff021424abb863fdf3e0f3e94.r2.dev/app-rk-release.apk",
       "imageUrl": "https://yourserver.com/images/windows.png"
     },
     {
       "name": "Super Mouse App",
       "platform": "android_MT",
-      "version": "4.4.6",
+      "version": "4.4.8",
       "whatsNew": [
         "Bugs are fixed",
         "New features are added"
       ],
-      "lastModified": "25/09/26",
+      "lastModified": "03/10/26",
       "downloadUrl": "https://pub-62e4d52ff021424abb863fdf3e0f3e94.r2.dev/app-mtk-release.apk",
       "imageUrl": "https://yourserver.com/images/windows.png"
     },
@@ -51,13 +51,25 @@
     {
       "name": "Super Mouse Android Firmware",
       "platform": "soc",
-      "version": "1.0.0",
+      "version": "2.0.1",
       "whatsNew": [
         "Performance improvements",
         "Battery optimization"
       ],
-      "lastModified": "22/09/26",
+      "lastModified": "03/10/26",
       "downloadUrl": "https://pub-62e4d52ff021424abb863fdf3e0f3e94.r2.dev/update.img",
+      "imageUrl": "https://yourserver.com/images/firmware1.png"
+    },
+    {
+      "name": "Super Mouse Android Firmware",
+      "platform": "soc_MT",
+      "version": "2.0.0",
+      "whatsNew": [
+        "Performance improvements",
+        "Battery optimization"
+      ],
+      "lastModified": "05/10/26",
+      "downloadUrl": "https://pub-62e4d52ff021424abb863fdf3e0f3e94.r2.dev/mt-firmware.zip",
       "imageUrl": "https://yourserver.com/images/firmware1.png"
     },
     {

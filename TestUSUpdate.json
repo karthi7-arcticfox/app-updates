@@ -15,7 +15,7 @@
     {
       "name": "Super Mouse App",
       "platform": "android_MT",
-      "version": "4.4.1",
+      "version": "4.5.1",
       "whatsNew": [
         "Bugs are fixed",
         "New features are added"
@@ -63,7 +63,7 @@
     {
       "name": "Super Mouse Android Firmware",
       "platform": "soc_MT",
-      "version": "2.0.0",
+      "version": "1.0.0",
       "whatsNew": [
         "Performance improvements",
         "Battery optimization"

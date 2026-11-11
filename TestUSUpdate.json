@@ -3,13 +3,13 @@
     {
       "name": "Super Mouse App",
       "platform": "android_RK",
-      "version": "4.5.6",
+      "version": "4.5.5",
       "whatsNew": [
         "Bugs are fixed",
         "New features are added"
       ],
-      "lastModified": "03/11/26",
-      "downloadUrl": "https://pub-62e4d52ff021424abb863fdf3e0f3e94.r2.dev/app-rk-release.apk",
+      "lastModified": "11/11/26",
+      "downloadUrl": "https://pub-62e4d52ff021424abb863fdf3e0f3e94.r2.dev/app-rk-release1.apk",
       "imageUrl": "https://yourserver.com/images/windows.png"
     },
     {
